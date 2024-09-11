@@ -1,0 +1,8 @@
+{
+    "psrname" : "J1909-3744",
+    "ephem" : "DE440",
+    "datadir" : "/fred/oz002/vdimarco/tbiby_PTA_noise/data/sims/WN_TN_DM_libstempo",
+    "outdir": "/fred/oz002/vdimarco/tbiby_PTA_noise/out_",
+    "label": "WN_EQ_EC_RN_DM_CH_SW_test"
+}
+
